@@ -42,4 +42,4 @@ Shopkeepers frequently receive front and back photos of customer ID cards via Wh
 Built by **Yashwant Kumar (aka Happy)** — BCA Student  
 
 Have suggestions, bug reports, or feature requests?  
-📧 **Email:** [happykn1ghtr7@gmail.com](mailto:happykn1ghtr7@://gmail.com)
+📧 **Email:** [happykn1ghtr7@gmail.com](mailto:happykn1ghtr7@gmail.com)
