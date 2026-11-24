@@ -1,0 +1,6 @@
+{
+  "name": "ID Print",
+  "description": "Crop front and back ID card photos and merge them into a print-ready A4 PDF completely offline and privately.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
