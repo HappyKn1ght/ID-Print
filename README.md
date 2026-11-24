@@ -1,6 +1,6 @@
 # 🪪 ID Print — Fast & Offline ID Card to A4 PDF Merger
 
-[![Download Latest APK](https://shields.io)](https://github.com/HappyKn1ght)
+[![Download Latest APK](https://shields.io)](https://github.com)
 ![Platform](https://shields.io)
 ![Language](https://shields.io)
 ![Privacy](https://shields.io)
@@ -24,9 +24,9 @@ Shopkeepers frequently receive front and back photos of customer ID cards via Wh
 ---
 
 ## 📲 How to Install
-1. Click the **[Download Latest APK](https://github.com)** button above (or open the **Releases** section on the right).
-2. Download `app-debug.apk` on your Android phone.
-3. Tap the downloaded file and allow installation from your browser/file manager if prompted.
+1. Click the **[Download Latest APK](https://github.com)** button above (or open the **[Releases](https://github.com)** page).
+2. Once `app-debug.apk` finishes downloading on your Android phone, tap the file.
+3. Allow installation from your browser or file manager if prompted.
 
 ---
 
