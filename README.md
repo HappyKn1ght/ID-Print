@@ -1,7 +1,7 @@
 # 🪪 ID Print — Fast & Offline ID Card to A4 PDF Merger
 
 > 📥 **[Download Latest APK (Android)](https://github.com/HappyKn1ght/ID-Print/releases/latest/download/app-debug.apk
-)** • **[View All Releases](https://github.com)**
+)** • **[View All Releases](https://github.com/HappyKn1ght/ID-Print/releases)**
 
 | Platform | Language | Privacy | Build Status |
 | :--- | :--- | :--- | :--- |
