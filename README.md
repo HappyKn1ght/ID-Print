@@ -1,7 +1,6 @@
 # 🪪 ID Print — Fast & Offline ID Card to A4 PDF Merger
 
-> 📥 **[Download Latest APK (Android)](https://github.com/HappyKn1ght/ID-Print/releases/latest/download/app-debug.apk
-)** • **[View All Releases](https://github.com/HappyKn1ght/ID-Print/releases)**
+> 📥 **[Download Latest APK (Android)](https://github.com/HappyKn1ght/ID-Print/releases/latest/download/app-debug.apk)** • **[View All Releases](https://github.com/HappyKn1ght/ID-Print/releases)**
 
 | Platform | Language | Privacy | Build Status |
 | :--- | :--- | :--- | :--- |
@@ -26,8 +25,7 @@ Shopkeepers frequently receive front and back photos of customer ID cards via Wh
 ---
 
 ## 📲 How to Install
-1. Tap **[Download Latest APK (Android)](https://github.com/HappyKn1ght/ID-Print/releases/latest/download/app-debug.apk
-)** above.
+1. Tap **[Download Latest APK (Android)](https://github.com/HappyKn1ght/ID-Print/releases/latest/download/app-debug.apk)** above.
 2. Once `app-debug.apk` finishes downloading on your Android phone, tap the file.
 3. Allow installation from your browser or file manager if prompted.
 
