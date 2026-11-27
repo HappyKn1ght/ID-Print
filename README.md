@@ -2,7 +2,7 @@
 
 > 📥 **[Download Latest APK (Android)](https://github.com)** • **[View All Releases](https://github.com)**
 >
-> **Shields.io:** [![Total Downloads (Shields)](https://shields.io)](https://github.com) • **Badgen:** [![Total Downloads (Badgen)](https://badgen.net)](https://github.com)
+> **Shields.io:** [![Total Downloads (Shields)](https://shields.io)](https://github.com) • **Badgen:** [![Total Downloads (Badgen)](https://badgen.net/github/assets-dl/HappyKn1ght/ID-Print)](https://github.com)
 
 
 
