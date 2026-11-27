@@ -5,7 +5,7 @@
 >
 
 
-| Platform | Language | Privacy | Build Status | Downloads |
+| Platform | Language | Privacy | Build Status | Total Downloads |
 | :--- | :--- | :--- | :--- | :--- |
 | **Android** | **Kotlin** | **100% Offline (Local)** | **Automated CI/CD** | [![Total Downloads](https://badgen.net/github/assets-dl/HappyKn1ght/ID-Print/total)](https://github.com/HappyKn1ght/ID-Print/releases) |
 
