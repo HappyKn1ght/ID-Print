@@ -1,6 +1,6 @@
 # 🪪 ID Print — Fast & Offline ID Card to A4 PDF Merger
 
-> 📥 **[Download Latest APK (Android)](https://github.com)** • **[View All Releases](https://github.com)** • 📊 **[Live Download Stats](https://github.io)**
+> 📥 **[Download Latest APK (Android)](https://github.com)** • **[View All Releases](https://github.com)** • 📊 **[Download Stats (JSON)](https://github.com)**
 
 
 | Platform | Language | Privacy | Build Status |
