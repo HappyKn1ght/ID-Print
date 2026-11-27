@@ -5,9 +5,10 @@
 >
 
 
-| Platform | Language | Privacy | Build Status |
+| Platform | Language | Privacy | Build Status | Downloads |
 | :--- | :--- | :--- | :--- | :--- |
-| **Android** | **Kotlin** | **100% Offline (Local)** | **Automated CI/CD** | **> • [![Total Downloads (Badgen)](https://badgen.net/github/assets-dl/HappyKn1ght/ID-Print/total)](https://github.com/HappyKn1ght/ID-Print/releases) ** |
+| **Android** | **Kotlin** | **100% Offline (Local)** | **Automated CI/CD** | [![Total Downloads](https://badgen.net/github/assets-dl/HappyKn1ght/ID-Print/total)](https://github.com/HappyKn1ght/ID-Print/releases) |
+
 
 **ID Print** is a lightweight, privacy-first Android application built to help print shopkeepers and cyber cafés merge the front and back sides of ID cards (such as Aadhaar or PAN cards) into a single, print-ready A4 PDF in seconds.
 
