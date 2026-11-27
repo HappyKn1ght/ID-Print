@@ -1,6 +1,9 @@
 # 🪪 ID Print — Fast & Offline ID Card to A4 PDF Merger
 
-> 📥 **[Download Latest APK (Android)](https://github.com)** • **[View All Releases](https://github.com)** • [![Downloads](https://badgen.net)](https://github.com)
+> 📥 **[Download Latest APK (Android)](https://github.com)** • **[View All Releases](https://github.com)**
+>
+> **Shields.io:** [![Total Downloads (Shields)](https://shields.io)](https://github.com) • **Badgen:** [![Total Downloads (Badgen)](https://badgen.net)](https://github.com)
+
 
 
 | Platform | Language | Privacy | Build Status |
