@@ -1,14 +1,20 @@
 # 🪪 ID Print — Fast & Offline ID Card to A4 PDF Merger
 
-> 📥 **[Download Latest APK (Android)](https://github.com)** • **[View All Releases](https://github.com)**
->
-> **Shields.io:** [![Total Downloads (Shields)](https://img.shields.io/github/downloads/HappyKn1ght/ID-Print/total)](https://github.com) • **Badgen:** [![Total Downloads (Badgen)](https://badgen.net/github/assets-dl/HappyKn1ght/ID-Print/total)](https://github.com)
+<div align="center">
 
+# 🪪 ID Print
+### Fast & Offline ID Card to A4 PDF Merger for Android
 
+[![Download Latest APK](https://shields.io)](https://github.com)
+[![Total Downloads](https://shields.io)](https://github.com)
 
-| Platform | Language | Privacy | Build Status |
-| :--- | :--- | :--- | :--- |
-| **Android** | **Kotlin** | **100% Offline (Local)** | **Automated CI/CD** |
+![Platform](https://shields.io)
+![Language](https://shields.io)
+![Privacy](https://shields.io)
+![CI/CD](https://shields.io)
+
+</div>
+
 
 **ID Print** is a lightweight, privacy-first Android application built to help print shopkeepers and cyber cafés merge the front and back sides of ID cards (such as Aadhaar or PAN cards) into a single, print-ready A4 PDF in seconds.
 
