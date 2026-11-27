@@ -8,7 +8,7 @@
 [![Download Latest APK](https://shields.io)](https://github.com)
 [![Total Downloads](https://shields.io)](https://github.com)
 
-![Platform](https://shields.io)
+![Platform](https://shields.io + /badge/Platform-Android-3DDC84?style=flat-square)
 ![Language](https://shields.io)
 ![Privacy](https://shields.io)
 ![CI/CD](https://shields.io)
