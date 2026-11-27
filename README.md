@@ -2,7 +2,6 @@
 
 > 📥 **[Download Latest APK (Android)](https://github.com)** • **[View All Releases](https://github.com)** • ![Total Downloads](https://badgen.net/github/assets-dl/HappyKn1ght/ID-Print)
 
-
 | Platform | Language | Privacy | Build Status |
 | :--- | :--- | :--- | :--- |
 | **Android** | **Kotlin** | **100% Offline (Local)** | **Automated CI/CD** |
