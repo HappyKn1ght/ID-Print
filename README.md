@@ -46,5 +46,11 @@ Shopkeepers frequently receive front and back photos of customer ID cards via Wh
 ## 👨‍💻 Developer & Feedback
 Built by **Yashwant Kumar (aka Happy)** — BCA Student  
 
+---
+
+## 📄 License
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+
+
 Have suggestions, bug reports, or feature requests?  
 📧 **Email:** [happykn1ghtr7@gmail.com](mailto:happykn1ghtr7@gmail.com)
