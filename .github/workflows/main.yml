@@ -3,9 +3,12 @@ name: Build & Release Android APK
 on:
   push:
     branches: [ "main" ]
-    paths-ignore:
-      - 'README.md'
-      - '**.md'
+    paths:
+      - 'app/**'
+      - 'gradle/**'
+      - 'build.gradle.kts'
+      - 'gradle.properties'
+      - 'settings.gradle.kts'
   workflow_dispatch:
 
 permissions:
