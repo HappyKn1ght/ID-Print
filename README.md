@@ -25,6 +25,7 @@ Shopkeepers frequently receive front and back photos of customer ID cards via Wh
 * **✂️ Smart Auto-Crop + Manual Adjust:** Automatically detects card edges on upload, with a manual crop option for fine-tuning whenever needed.
 * **📄 Clean A4 PDF Export:** Generates a crisp, print-ready A4 PDF with both sides neatly aligned and zero UI artifacts or crop handles.
 * **🛠️ Automated CI/CD Releases:** Built and packaged automatically via GitHub Actions on every update.
+* **📬 24/7 Automated User Support:** Built-in feedback routing paired with instant automated email confirmations and categorized response templates.
 
 ---
 
